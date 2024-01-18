@@ -1,4 +1,4 @@
-### "I could fall asleep at night as a rock and roll star" 👋
+### "I could fall asleep at night as a rock and roll star" 
 
 <!--
 **Letoilenoir/Letoilenoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
