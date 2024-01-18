@@ -19,3 +19,4 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
 </div>
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Letoilenoir&theme=github_dark"</div>
+<div align="center"<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Letoilenoir&theme=github_dark"<div>
