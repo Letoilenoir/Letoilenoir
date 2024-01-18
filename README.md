@@ -1,4 +1,4 @@
-### "I could fall asleep at night as a rock and roll star" 
+<div align="center>### "I could fall asleep at night as a rock and roll star" </div>
 
 <!--
 **Letoilenoir/Letoilenoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=aura_dark)
+ 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
 </div>
