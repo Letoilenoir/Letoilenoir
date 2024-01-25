@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Completed the degree in Dec 2021
 In 2002 took a Cisco DEVASC course and am currently building my portolio
 Started my coding journey by adopting php scripts for online gaming. Then took a web design course (HTML & CSS) using Adobe Dreamweaver.
-Currently employed as a Credit Control Consultant, I am integrating automation using SAP GUI Scripting with VBA macros to streamline processes</div>
+Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes</div>
  
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
