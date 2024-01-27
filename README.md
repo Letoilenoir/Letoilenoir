@@ -26,3 +26,5 @@ Currently employed as a Credit Control Consultant, I am introducing automation b
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Letoilenoir&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Letoilenoir&theme=github_dark"></div>
 
 <a href="www.linkedin.com/in/andy-meakin-bsc-hons-65218019"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
