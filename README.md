@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>Hi, I am a latecomer to code & web development, with a BSc (Honours) Computing & IT and Design via the Open University 
-Completed the degree in Dec 2021
-In 2002 took a Cisco DEVASC course and am currently building my portolio
-Started my coding journey by adopting php scripts for online gaming. Then took a web design course (HTML & CSS) using Adobe Dreamweaver.
-Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes</div>
+<div><p><Hi,<br> I am a latecomer to code & web development, I started my coding journey by adopting php scripts for online gaming, then took a web design course (HTML & CSS) using Adobe Dreamweaver.</p><p>In Dece 2021 I attained a BSc (Honours) Computing & IT and Design via tthe Open University</p>
+<p>Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes.<br>In 2002 took a Cisco DEVASC course and  building my portolio</p>
+
+
  
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
