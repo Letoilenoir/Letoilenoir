@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div><p><Hi,<br> I am a latecomer to code & web development, I started my coding journey by adopting php scripts for online gaming, then took a web design course (HTML & CSS) using Adobe Dreamweaver.</p><p>In Dece 2021 I attained a BSc (Honours) Computing & IT and Design via tthe Open University</p>
-<p>Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes.<br>In 2002 took a Cisco DEVASC course and  building my portolio</p>
+<div><p><Hi,<br> I am a latecomer to code & web development, I started my coding journey by adopting php scripts for online gaming, then took a web design course (HTML & CSS) using Adobe Dreamweaver.</p><p>In Dece 2021 I attained a BSc (Honours) Computing & IT and Design via the Open University<br>In 2002 I took a Cisco DEVASC course and am building my portolio</p></p>
+<p>Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes.</p></div>
 
 
  
