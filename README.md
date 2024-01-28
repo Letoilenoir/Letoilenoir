@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div><p><Hi,<br> I am a latecomer to code & web development, I started my coding journey by adopting php scripts for online gaming, then took a web design course (HTML & CSS) using Adobe Dreamweaver.</p><p>In Dec 2021 I attained a BSc (Honours) Computing & IT and Design via the Open University<br>In 2002 I took a Cisco DEVASC course and am building my portolio</p></p>
 <p>Currently employed as a Credit Control Consultant, I am introducing automation by integrating SAP GUI Scripting within VBA macros to streamline processes.</p></div>
 
-
+<div><img src =<!https://github.com/Letoilenoir/Letoilenoir/blob/main/web-development-101-variables.svg"></div>
  
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
